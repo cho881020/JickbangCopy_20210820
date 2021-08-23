@@ -9,6 +9,8 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
+//    두번째 연습용 주석
+    
     val mRoomList = ArrayList<RoomData>()
 
     lateinit var mRoomAdapter : RoomAdapter
